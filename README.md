@@ -1,11 +1,11 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 
 **kkswag/kkswag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-### Kamg
+
 
 ```html
 <h1>ksmg</h1>
@@ -19,3 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+ -->
+ 
+ 
+ ### Natnicha Phungphon 
